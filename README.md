@@ -4,116 +4,171 @@
 
 ### **Build. Share. Learn. Open Source.**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0033FF,50:0066FF,100:00C6FF&text=Blu%20Bug%20Tech&fontSize=48&fontColor=FFFFFF&fontAlignY=38&animation=twinkling&desc=Open%20Source%20Software%20%7C%20Developer%20Tools%20%7C%20Tech%20Guides&descAlignY=62&descSize=16" width="100%"/>
-
-[![GitHub](https://img.shields.io/badge/GitHub-Blu%20Bug%20Tech-181717?style=for-the-badge&logo=github)](https://github.com/blubugtech)
-[![Founder](https://img.shields.io/badge/Founder-Aman%20Kumar%20Maurya-0033FF?style=for-the-badge&logo=github)](https://github.com/amankrmj09)
-[![Open Source](https://img.shields.io/badge/Open%20Source-❤-00A67E?style=for-the-badge)](https://github.com/blubugtech)
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0033FF,50:0066FF,100:00C6FF&text=Blu%20Bug%20Tech&fontSize=48&fontColor=FFFFFF&fontAlignY=38&animation=twinkling&desc=Open-Source%20Software%20%7C%20Technical%20Guides&descAlignY=62&descSize=18" width="100%"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=0066FF&center=true&vCenter=true&width=700&lines=Building+useful+open-source+software;Engineering+tools+for+developers;Writing+practical+tech+guides;Learning+by+building+and+sharing" alt="Typing animation" />
+<a href="https://github.com/blubugtech">
+  <img src="https://img.shields.io/badge/GitHub-Blu%20Bug%20Tech-181717?style=for-the-badge&logo=github" alt="Blu Bug Tech GitHub"/>
+</a>
+
+<a href="https://github.com/amankrmj09">
+  <img src="https://img.shields.io/badge/Founder-Aman%20Kumar%20Maurya-0033FF?style=for-the-badge&logo=github" alt="Aman Kumar Maurya GitHub"/>
+</a>
+
+<a href="https://github.com/blubugtech">
+  <img src="https://img.shields.io/badge/Open%20Source-❤-00A67E?style=for-the-badge" alt="Open Source"/>
+</a>
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=0066FF&center=true&vCenter=true&width=750&lines=Building+useful+open-source+software;Sharing+practical+technical+guides;Learning+by+building+and+sharing" alt="Typing animation"/>
 
 </div>
 
 ---
 
-## 🐞 What is Blu Bug Tech?
+# 🐞 About Blu Bug Tech
 
-**Blu Bug Tech** is an open-source technology platform focused on building software that developers can actually use and creating technical guides that developers can actually learn from.
+**Blu Bug Tech** is an independent open-source initiative focused on building useful software and sharing practical technical knowledge.
 
 The idea is simple:
 
 > **Build useful things. Understand how they work. Share what you learn.**
 
-Blu Bug Tech is a space for experiments, developer tools, self-hosted software, backend systems, infrastructure projects, learning resources, and practical engineering knowledge.
+The project brings together open-source software, experiments, developer tools, and technical guides in one place.
 
 ---
 
-## 🚀 What We Build
+# 🚀 What We Build
 
 <table>
 <tr>
-<td width="50%">
 
-### 🧩 Open-Source Software
+<td width="50%" valign="top">
 
-Practical, production-minded projects designed to solve real engineering problems.
+## 🧩 Open-Source Software
+
+Small and useful software projects built and shared openly.
 
 - Developer tools
 - Self-hosted software
-- Backend services
-- Infrastructure utilities
-- Authentication & security systems
-- APIs & platforms
+- APIs & services
+- Experiments & utilities
 
 </td>
-<td width="50%">
 
-### 📚 Tech Guides
+<td width="50%" valign="top">
 
-Technical documentation and hands-on guides focused on understanding the **why**, not just copying commands.
+## 📚 Technical Guides
 
-- Linux & networking
-- Docker & containers
-- Kubernetes
-- Spring Boot
-- Microservices
+Practical guides for learning and working with software.
+
+- Linux
+- Backend development
 - Databases
-- Cloud & DevOps
-- Security
+- DevOps
+- Cloud & infrastructure
 
 </td>
+
 </tr>
 </table>
 
 ---
 
-## 🛠️ Current Open-Source Projects
+# 🛠️ Projects
 
-> A growing collection of software built under the Blu Bug Tech ecosystem.
+Our repositories contain open-source software, experiments, and tools built under the Blu Bug Tech identity.
 
-| Project | Description | Focus |
-|---|---|---|
-| 🔐 **BluKeys** | Self-hosted Key Management Service | Security · KMS |
-| 🛡️ **BluAuth** | Self-hosted Identity & Access Management platform | IAM · Security |
-| 🌐 **Singularity Grid** | Developer-focused distributed systems project | TypeScript · Systems |
-| 🧪 **More coming...** | New tools and experiments are continuously being built | Open Source |
+### 🔐 BluKeys
 
-Explore all repositories → **[github.com/blubugtech](https://github.com/blubugtech)**
+A self-hosted key management project focused on securely managing application keys and secrets.
+
+### 🛡️ BluAuth
+
+An open-source authentication and identity project for applications and services.
+
+### 🌐 Singularity Grid
+
+An experimental project exploring distributed systems and developer-focused infrastructure.
+
+> Projects are actively evolving. More software will be added as it is built and documented.
+
+### 🔎 Explore all projects
+
+**[github.com/blubugtech](https://github.com/blubugtech)**
 
 ---
 
-## 🧠 Engineering Philosophy
+# 📖 Technical Guides
+
+The guide side of Blu Bug Tech focuses on practical software engineering knowledge.
+
+Topics include:
 
 ```text
-┌──────────────────────────────────────────────────────────┐
-│                    BLU BUG TECH                          │
-├──────────────────────────────────────────────────────────┤
-│                                                          │
-│  Build        →  Solve real problems                    │
-│  Understand   →  Learn the underlying systems           │
-│  Document     →  Turn knowledge into guides              │
-│  Open Source  →  Share the implementation                │
-│  Improve      →  Iterate through community feedback      │
-│                                                          │
-└──────────────────────────────────────────────────────────┘
+Linux
+Docker
+Kubernetes
+Spring Boot
+Microservices
+Databases
+DevOps
+Cloud
+Networking
+Security
 ```
 
-### Our principles
+The goal isn't just to provide commands or code snippets.
 
-- **Open by default** — Prefer open-source solutions and transparent engineering.
-- **Learn by building** — Theory becomes stronger when it is implemented.
-- **Practical over superficial** — Guides should explain concepts and real usage.
-- **Self-host where it makes sense** — Developers should have control over their infrastructure.
-- **Build for developers** — Tools should reduce complexity, not add to it.
-- **Document everything important** — Good software deserves good documentation.
+It's to explain **what something does, why it works, and how to use it properly.**
 
 ---
 
-## ⚙️ Technology
+# 🧠 Philosophy
 
-Blu Bug Tech projects can span multiple layers of the modern software stack:
+```text
+        💡 BUILD
+           │
+           ▼
+      🔍 UNDERSTAND
+           │
+           ▼
+       📖 DOCUMENT
+           │
+           ▼
+      🌐 OPEN SOURCE
+           │
+           ▼
+        🔁 IMPROVE
+```
+
+### Build
+
+Create useful software instead of only talking about ideas.
+
+### Understand
+
+Learn how the underlying systems actually work.
+
+### Document
+
+Turn what we learn into useful technical guides.
+
+### Open Source
+
+Share software and knowledge so others can inspect, use, and improve them.
+
+### Improve
+
+Keep experimenting, learning, and making things better.
+
+---
+
+# ⚙️ Technologies
+
+Projects may use different technologies depending on what they are trying to solve.
 
 <div align="center">
 
@@ -126,7 +181,7 @@ Blu Bug Tech projects can span multiple layers of the modern software stack:
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -136,128 +191,107 @@ Blu Bug Tech projects can span multiple layers of the modern software stack:
 
 ---
 
-## 📖 The Guide Library
+# 🤝 Contributing
 
-Blu Bug Tech aims to turn difficult engineering topics into practical, reproducible learning material.
+Blu Bug Tech is open to contributions.
 
-```text
-Linux
- ├── Shell & Text Processing
- ├── Networking
- ├── Permissions & Ownership
- ├── Firewalls
- └── System Administration
+You can contribute through:
 
-Backend Engineering
- ├── Java
- ├── Spring Boot
- ├── REST APIs
- ├── Microservices
- └── System Design
+- 🐛 Reporting bugs
+- 💡 Suggesting ideas
+- 🔧 Opening pull requests
+- 📖 Improving documentation
+- 🧪 Testing projects
+- 💬 Sharing feedback
 
-DevOps & Infrastructure
- ├── Docker
- ├── Kubernetes
- ├── Helm
- ├── Traefik
- ├── Ansible
- └── CI/CD
-
-Data & Security
- ├── PostgreSQL
- ├── SQL
- ├── Authentication
- ├── Cryptography
- └── Infrastructure Security
-```
+Before contributing, check the contribution guidelines of the individual repository when available.
 
 ---
 
-## 🌱 Open Source Roadmap
+# ⭐ Support
 
-```text
-                    ┌──────────────────┐
-                    │   BUILD AN IDEA  │
-                    └────────┬─────────┘
-                             │
-                             ▼
-                    ┌──────────────────┐
-                    │  DESIGN & TEST   │
-                    └────────┬─────────┘
-                             │
-                             ▼
-                    ┌──────────────────┐
-                    │   OPEN SOURCE    │
-                    └────────┬─────────┘
-                             │
-                             ▼
-                    ┌──────────────────┐
-                    │ DOCUMENT & TEACH │
-                    └────────┬─────────┘
-                             │
-                             ▼
-                    ┌──────────────────┐
-                    │ COMMUNITY INPUT  │
-                    └────────┬─────────┘
-                             │
-                             └──────────► 🔁 ITERATE
-```
+If you find a project useful:
+
+**⭐ Star it**
+
+**🐛 Report issues**
+
+**💡 Suggest improvements**
+
+**🔧 Contribute**
+
+**📖 Improve the documentation**
+
+Open-source projects grow through people who use them, improve them, and share them.
 
 ---
 
-## 🤝 Contributing
-
-Blu Bug Tech is built around the idea that good software becomes better when more people can inspect it, use it, improve it, and learn from it.
-
-Contributions are welcome through:
-
-- 🐛 Bug reports
-- 💡 Feature proposals
-- 🔧 Pull requests
-- 📖 Documentation improvements
-- 🧪 Testing
-- 💬 Technical discussions
-- 🌟 Sharing projects with other developers
-
-Check the individual repository for contribution guidelines before opening a pull request.
+> [!NOTE]
+> **Blu Bug Tech is currently an independent, unregistered open-source initiative/project and is not a registered company or business entity.**
+>
+> The name **Blu Bug Tech** is used as a project and community identity for open-source software, experiments, and technical guides. It does not currently represent a legally incorporated company.
 
 ---
 
-## 👨‍💻 About the Builder
-
-**Blu Bug Tech is created and maintained by [Aman Kumar Maurya](https://github.com/amankrmj09).**
-
-Aman works across backend engineering, full-stack development, distributed systems, DevOps, and open-source software.
-
-His personal GitHub profile contains experiments, applications, learning projects, and engineering work that feed into the broader Blu Bug Tech ecosystem.
+# 👨‍💻 About the Creator
 
 <div align="center">
 
-### 🔗 Connect
+## Aman Kumar Maurya
 
-[![GitHub](https://img.shields.io/badge/Aman%20Kumar%20Maurya-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/amankrmj09)
-[![Portfolio](https://img.shields.io/badge/Portfolio-amankrmj.dev-0033FF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://amankrmj.dev)
+Software Developer · Open-Source Builder
+
+<a href="https://github.com/amankrmj09">
+<img src="https://img.shields.io/badge/GitHub-amankrmj09-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+</a>
+
+<a href="https://amankrmj.dev">
+<img src="https://img.shields.io/badge/Portfolio-amankrmj.dev-0033FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+</a>
 
 </div>
 
+Blu Bug Tech is created and maintained as an independent open-source initiative.
+
+Personal projects and experiments can be found on **[Aman's GitHub profile](https://github.com/amankrmj09)**.
+
 ---
 
-## ⭐ Support the Projects
+# 🐞 Why "Blu Bug"?
 
-If something from Blu Bug Tech is useful to you:
+Software development is full of bugs.
 
-**⭐ Star the repository · 🐛 Report issues · 💡 Suggest improvements · 🤝 Contribute**
+Instead of being afraid of them:
 
-Every contribution helps turn a small experiment into something useful for more developers.
+```text
+          🐞
+           │
+           ▼
+      Find the bug
+           │
+           ▼
+     Understand it
+           │
+           ▼
+        Fix it
+           │
+           ▼
+      Learn from it
+           │
+           ▼
+       Build better
+```
+
+**Blu Bug Tech** represents that mindset.
+
+> **Build things. Break things. Understand them. Fix them. Share what you learned.**
 
 ---
 
 <div align="center">
 
-### **Build something. Break something. Understand it. Fix it. Share it.**
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:00C6FF,50:0066FF,100:0033FF&section=footer&animation=twinkling&text=Build%20Something%20Useful.&fontSize=32&fontColor=FFFFFF&fontAlignY=45&desc=Open%20Source%20%E2%80%A2%20Software%20%E2%80%A2%20Knowledge&descSize=16&descAlignY=65" width="100%"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:00C6FF,50:0066FF,100:0033FF&section=footer&animation=twinkling" width="100%"/>
-
-<sub>🐞 Blu Bug Tech · Open Source Software & Technical Knowledge</sub>
+<sub>🐞 Blu Bug Tech · Building open-source software and sharing technical knowledge.</sub>
 
 </div>
