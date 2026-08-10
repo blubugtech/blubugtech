@@ -286,6 +286,17 @@ Instead of being afraid of them:
 
 > **Build things. Break things. Understand them. Fix them. Share what you learned.**
 
+
+---
+
+<div style="text-align: center;">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/blubugtech/blubugtech/output/singularity-grid-dark.gif" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/blubugtech/blubugtech/output/singularity-grid-light.gif" />
+    <img alt="singularity-grid" src="https://raw.githubusercontent.com/blubugtech/blubugtech/output/singularity-grid-light.svg" />
+  </picture>
+</div>
+
 ---
 
 <div align="center">
