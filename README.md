@@ -1,9 +1,4 @@
 <div align="center">
-
-# 🐞 Blu Bug Tech
-
-### **Build. Share. Learn. Open Source.**
-
 <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0033FF,50:0066FF,100:00C6FF&text=Blu%20Bug%20Tech&fontSize=48&fontColor=FFFFFF&fontAlignY=38&animation=twinkling&desc=Open-Source%20Software%20%7C%20Technical%20Guides&descAlignY=62&descSize=18" width="100%"/>
 
 <br/>
@@ -24,6 +19,9 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=0066FF&center=true&vCenter=true&width=750&lines=Building+useful+open-source+software;Sharing+practical+technical+guides;Learning+by+building+and+sharing" alt="Typing animation"/>
 
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=blubugtech&label=Visitor%20Count&color=0e75b6&style=for-the-badge" />
+</p>
 </div>
 
 ---
